@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Dancing+Script:wght@400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+  background: hsl(163, 20%, 95%) !important;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive !important;
+  font-size: 2rem !important;
+  margin-left: 0.3em;
+}
+
+h3 {
+  font-family: 'Amatic SC', cursive !important;
+  padding-top: 0.9em !important;
+  margin-bottom: 0.75em !important;
+  font-size: 2.4rem !important;
+}
+
+h1,
+h3 {
+  font-weight: 700 !important;
+}
+
+h1 img {
+  padding-right: 0.35em !important;
+}
+
+h4,
+h5 {
+  font-size: 1.3em !important;
+  font-family: 'Merriweather', serif !important;
+  letter-spacing: 0.000001px !important;
+  font-weight: 450 !important;
+  font-style: italic;
+}
+
+p {
+  font-size: 0.95em !important;
+  font-family: 'Merriweather', serif !important;
+  font-weight: 400;
+}
+
+.cart-item {
+  background: hsl(44, 29%, 98%) !important;
+}

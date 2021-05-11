@@ -43,4 +43,5 @@ p {
 
 .cart-item {
   background: hsl(44, 29%, 98%) !important;
+  color: red;
 }

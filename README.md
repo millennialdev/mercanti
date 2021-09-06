@@ -1,5 +1,6 @@
-# E-Commerce
+## Mercanti
 
-## Introduction
+Built a fully responsive and fully functional eCommerce store, using Commerce.js + React.
 
-Built a fully responsive eCommerce store, using Commerce.js
+## Project Screenshot
+![Screenshot]('./src/assets/capture.jpg')
